@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="paperwork.svg"
-   inkscape:export-filename="/home/thamieu/Projets/gnome-design/paperwork/paperwork-thumbnails.png"
+   inkscape:export-filename="/home/thamieu/Projets/gnome-design/paperwork/paperwork-tags.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1638,6 +1638,87 @@
        x2="1275.3571"
        y2="203.3485"
        gradientUnits="userSpaceOnUse" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect39856-9-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect39856-9-4-0"
+       is_visible="true" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath65663-2">
+      <rect
+         style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect65665-6"
+         width="96.999924"
+         height="24.292892"
+         x="708.71954"
+         y="406.96973"
+         rx="3.1139846"
+         ry="1.9595497"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter65576-5-6"
+       x="-0.017018136"
+       width="1.0340363"
+       y="-0.040695913"
+       height="1.0813918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.55935612"
+         id="feGaussianBlur65578-6-0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5378-2-5-9-9-0-80-7-6-8-4-5-7-3-6-2-9-4-8"
+       id="linearGradient65582-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5250827,0,0,0.72144839,620.16092,156.4917)"
+       x1="207.17195"
+       y1="497.39584"
+       x2="207.17195"
+       y2="531.48669" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5378-2-5-9-9-0-80-7-6-8-4-5-7-3-6-2-9-4-8">
+      <stop
+         style="stop-color:#f4f6f4;stop-opacity:1"
+         offset="0"
+         id="stop5380-6-1-1-9-3-6-3-6-45-6-4-4-9-9-8-9-0-2" />
+      <stop
+         style="stop-color:#d7dad7;stop-opacity:1"
+         offset="1"
+         id="stop5382-06-3-6-4-2-4-6-8-0-9-6-8-7-7-6-7-5-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient65584-0-2"
+       id="linearGradient65590-2"
+       x1="716.62506"
+       y1="537.23358"
+       x2="716.62506"
+       y2="535.23358"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0139469,0,0,1.0139469,-10.01395,-6.3428669)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient65584-0-2">
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1"
+         offset="0"
+         id="stop65586-0-9" />
+      <stop
+         style="stop-color:#a7aba7;stop-opacity:0;"
+         offset="1"
+         id="stop65588-2-9" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1646,11 +1727,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1287357"
-     inkscape:cx="703.56868"
-     inkscape:cy="605.13492"
+     inkscape:zoom="2.1135984"
+     inkscape:cx="233.77814"
+     inkscape:cy="583.57372"
      inkscape:document-units="px"
-     inkscape:current-layer="g8994"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="734"
@@ -1665,7 +1746,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1852,7 +1933,7 @@
          sodipodi:role="line"
          id="tspan11681"
          x="75.232414"
-         y="432.4328">Détail des charges</tspan></text>
+         y="432.4328">Lorem Ipsum</tspan></text>
     <text
        sodipodi:linespacing="125%"
        inkscape:export-ydpi="90"
@@ -2112,7 +2193,7 @@
          y="341.43283"
          x="672.72626"
          id="tspan9649"
-         sodipodi:role="line">Détail des charges</tspan></text>
+         sodipodi:role="line">Lorem Ipsum</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path10145"
@@ -2715,7 +2796,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="view - adjusted"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        id="g25295"
@@ -2943,7 +3024,7 @@
            id="tspan32305"
            x="453.34677"
            y="454.4122"
-           style="font-size:16.6776619px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold">Détail des charges</tspan></text>
+           style="font-size:16.6776619px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold">Lorem Ipsum</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:12.88550949px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:155.99999428%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
@@ -2988,7 +3069,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="view - thumbnails"
      id="g3579"
      inkscape:groupmode="layer">
@@ -3218,10 +3299,10 @@
            style="font-size:36.81574249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:155.99999428%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            xml:space="preserve"><tspan
              y="-477.38974"
-             x="396.67453"
+             x="404.27698"
              id="tspan4184"
              sodipodi:role="line"
-             style="text-anchor:middle;text-align:center;font-weight:bold;-inkscape-font-specification:Cantarell Bold">1</tspan></text>
+             style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Cantarell Bold">1</tspan></text>
       </g>
       <g
          id="g5352"
@@ -5656,7 +5737,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="menu - tags"
-     style="display:inline">
+     style="display:none">
     <g
        id="g21427-1-3-8-3-5"
        transform="translate(-44.1366,1165.8299)"
@@ -5999,7 +6080,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="menu - view - adjusted"
-     style="display:inline">
+     style="display:none">
     <g
        id="g8994"
        transform="translate(-966.2575,160.02908)">
@@ -6411,7 +6492,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="menu - list">
+     inkscape:label="menu - list"
+     style="display:inline">
     <g
        id="g5379"
        transform="translate(-264.01221,-26.806197)">
@@ -6430,7 +6512,7 @@
          inkscape:connector-curvature="0"
          id="path9296"
          d="m 1268.8208,114.4906 -35.5,0 -15.7263,-17.9004 -15.2737,17.9004 -133.5,0 c -3.324,0 -6,3.0792 -6,6.9041 l 0,181.808 c 0,3.8249 2.676,6.9041 6,6.9041 l 200,0 c 3.324,0 6,-3.0792 6,-6.9041 l 0,-181.808 c 0,-3.8249 -2.676,-6.9041 -6,-6.9041 z"
-         style="color:#000000;fill:url(#linearGradient5403);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1.07269919000000002;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:url(#linearGradient5403);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1.07269919;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          xml:space="preserve"
          style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -6576,6 +6658,141 @@
          y="286.99979"
          inkscape:label="a" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="menu - app"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#a5a5a5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 185.5,32.67361 c -0.51124,0 -1.02714,0.18978 -1.40625,0.59375 l -16.25,16.25 -47.84375,0 c -4.432,0 -8,3.568 -8,8 l 0,237.98664 c 0,9.02658 3.56741,9.83748 8,9.83748 l 195,0 c 4.43297,0 8,-0.8109 8,-9.83748 l 0,-237.98664 c 0,-8.362468 -3.568,-8 -8,-8 l -111.84375,0 -16.25,-16.25 C 186.51451,32.87562 186.01124,32.67361 185.5,32.67361 z"
+       id="rect41123-4"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="sscsssssssscss" />
+    <g
+       id="g7592"
+       transform="translate(0.53200427,140.08706)">
+      <text
+         id="text40311"
+         y="84.193207"
+         x="126.9566"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="84.193207"
+           x="126.9566"
+           id="tspan40313"
+           sodipodi:role="line">Preferences</tspan></text>
+      <text
+         id="text40319"
+         y="116.19321"
+         x="126.9566"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="116.19321"
+           x="126.9566"
+           id="tspan40321"
+           sodipodi:role="line">About Paperwork</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="126.9566"
+         y="148.19321"
+         id="text40323"><tspan
+           sodipodi:role="line"
+           id="tspan40325"
+           x="126.9566"
+           y="148.19321"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell">Quit</tspan></text>
+    </g>
+    <g
+       id="g7583"
+       transform="translate(0,-104.74878)">
+      <text
+         id="text40311-7"
+         y="183.08199"
+         x="127.0266"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="183.08199"
+           x="127.0266"
+           id="tspan40313-3"
+           sodipodi:role="line">Scan from</tspan></text>
+      <text
+         id="text40311-8"
+         y="213.97751"
+         x="147.05499"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="213.97751"
+           x="147.05499"
+           id="tspan40313-9"
+           sodipodi:role="line">lid</tspan></text>
+      <text
+         id="text40311-5"
+         y="244.68633"
+         x="147.377"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="244.68633"
+           x="147.377"
+           id="tspan40313-91"
+           sodipodi:role="line">feeder</tspan></text>
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect58322-2"
+         width="6"
+         height="6"
+         x="127.7266"
+         y="207.63559"
+         rx="4.666667"
+         ry="4.666667" />
+    </g>
+    <path
+       style="fill:none;stroke:#d3d7cf;stroke-width:0.80316377;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 121.38215,160.32997 192.23569,0"
+       id="path9630-2-7"
+       inkscape:path-effect="#path-effect39856-9-4"
+       inkscape:original-d="m 121.38215,160.32997 192.23569,0"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text40311-4"
+       y="184.89685"
+       x="127.01373"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         y="184.89685"
+         x="127.01373"
+         id="tspan40313-8"
+         sodipodi:role="line">OCR</tspan></text>
+    <path
+       style="fill:none;stroke:#d3d7cf;stroke-width:0.80316377;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 121.38215,199.05997 192.23569,0"
+       id="path9630-2-7-3"
+       inkscape:path-effect="#path-effect39856-9-4-0"
+       inkscape:original-d="m 121.38215,199.05997 192.23569,0"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9386-9"
+       d="m 299.97158,185.1169 5.0711,-5.071 -5.0711,-5.0711 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6831,55 +7048,5 @@
            id="tspan26790"
            sodipodi:role="line">Paperwork</tspan></text>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="menu - app"
-     style="display:none">
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#a5a5a5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 185.5,32.67361 c -0.51124,0 -1.02714,0.18978 -1.40625,0.59375 l -16.25,16.25 -47.84375,0 c -4.432,0 -8,3.568 -8,8 l 0,108 c 0,4.432 3.568,8 8,8 l 195,0 c 4.432,0 8,-3.568 8,-8 l 0,-108 c 0,-4.432 -3.568,-8 -8,-8 l -111.84375,0 -16.25,-16.25 C 186.51451,32.87562 186.01124,32.67361 185.5,32.67361 z"
-       id="rect41123-4"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="sscsssssssscss" />
-    <text
-       sodipodi:linespacing="125%"
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="126.9566"
-       y="84.193207"
-       id="text40311"><tspan
-         sodipodi:role="line"
-         id="tspan40313"
-         x="126.9566"
-         y="84.193207"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell">Preferences</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="126.9566"
-       y="116.19321"
-       id="text40319"><tspan
-         sodipodi:role="line"
-         id="tspan40321"
-         x="126.9566"
-         y="116.19321"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell">About Paperwork</tspan></text>
-    <text
-       id="text40323"
-       y="148.19321"
-       x="126.9566"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         y="148.19321"
-         x="126.9566"
-         id="tspan40325"
-         sodipodi:role="line">Quit</tspan></text>
   </g>
 </svg>
