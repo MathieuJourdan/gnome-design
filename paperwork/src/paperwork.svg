@@ -1726,11 +1726,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70098823"
-     inkscape:cx="526.47325"
-     inkscape:cy="468.58204"
+     inkscape:zoom="0.67824367"
+     inkscape:cx="165.55362"
+     inkscape:cy="327.80888"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="734"
@@ -1887,115 +1887,16 @@
        style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:300;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect11629"
        width="310.67731"
-       height="80.743217"
+       height="102"
        x="-0.44487274"
-       y="405.70331" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="75.232414"
-       y="514.40479"
-       id="text11635"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11637"
-         x="75.232414"
-         y="514.40479">Détail des charges</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#00000a;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="75.232414"
-       y="678.38379"
-       id="text11641"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11643"
-         x="75.232414"
-         y="678.38379"
-         style="fill:#2e3436;fill-opacity:1">Détail des charges</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebedeb;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="75.232414"
-       y="432.4328"
-       id="text11679"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11681"
-         x="75.232414"
-         y="432.4328">Lorem Ipsum</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       id="text11709"
-       y="596.41876"
-       x="75.232414"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="596.41876"
-         x="75.232414"
-         id="tspan11711"
-         sodipodi:role="line">Détail des charges</tspan></text>
+       y="405.57034" />
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 11.732421,568.10979 298.006679,0"
+       inkscape:original-d="m 11.732421,610.08018 298.006679,0"
        inkscape:path-effect="#path-effect8486"
        id="path11741"
-       d="m 11.732421,568.10979 298.006679,0"
+       d="m 11.732421,610.08018 298.006679,0"
        style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <text
-       sodipodi:linespacing="125%"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       id="text11631"
-       y="760.40479"
-       x="75.330414"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="760.40479"
-         x="75.330414"
-         id="tspan11633"
-         sodipodi:role="line">Vos remboursements</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       id="text11649"
-       y="842.40479"
-       x="75.330414"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="842.40479"
-         x="75.330414"
-         id="tspan11651"
-         sodipodi:role="line">Vos remboursements</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="75.330414"
-       y="926.38379"
-       id="text11721"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11723"
-         x="75.330414"
-         y="926.38379">Vos remboursements</tspan></text>
     <rect
        style="color:#000000;fill:url(#linearGradient31637);fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4025"
@@ -2043,39 +1944,25 @@
          sodipodi:role="line">Search Documents</tspan></text>
     <path
        style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 11.732421,650.10979 298.006679,0"
+       d="m 11.732421,712.08018 298.006679,0"
        id="path9620"
        inkscape:path-effect="#path-effect39850"
-       inkscape:original-d="m 11.732421,650.10979 298.006679,0"
+       inkscape:original-d="m 11.732421,712.08018 298.006679,0"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 11.732421,732.10979 298.006679,0"
+       inkscape:original-d="m 11.732421,814.08018 298.006679,0"
        inkscape:path-effect="#path-effect39856"
        id="path9630"
-       d="m 11.732421,732.10979 298.006679,0"
+       d="m 11.732421,814.08018 298.006679,0"
        style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <path
-       style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 11.732421,814.10979 298.006679,0"
-       id="path9636"
-       inkscape:path-effect="#path-effect39862"
-       inkscape:original-d="m 11.732421,814.10979 298.006679,0"
-       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 11.732421,898.10979 298.006679,0"
+       inkscape:original-d="m 11.732421,916.08018 298.006679,0"
        inkscape:path-effect="#path-effect39868"
        id="path9642"
-       d="m 11.732421,898.10979 298.006679,0"
+       d="m 11.732421,916.08018 298.006679,0"
        style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <path
-       style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 11.732421,982.10979 298.006679,0"
-       id="path9652"
-       inkscape:path-effect="#path-effect39874"
-       inkscape:original-d="m 11.732421,982.10979 298.006679,0"
-       inkscape:connector-curvature="0" />
     <rect
        style="color:#000000;fill:url(#linearGradient39714);fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:0.99999982;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9364"
@@ -2198,105 +2085,6 @@
        id="path10145"
        d="m 310.73242,314.03304 c 0,47.01259 0,47.01259 0,47.01259"
        style="fill:none;stroke:#a7aba7;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebedeb;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="75.232414"
-       y="452.4328"
-       id="text11679-6"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11681-7"
-         x="75.232414"
-         y="452.4328">03/05/2014</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="75.232414"
-       y="534.40479"
-       id="text11635-2"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11637-7"
-         x="75.232414"
-         y="534.40479">01/05/2013</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       id="text11709-8"
-       y="616.41876"
-       x="75.232414"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="616.41876"
-         x="75.232414"
-         id="tspan11711-8"
-         sodipodi:role="line">23/04/2012</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#00000a;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="75.232414"
-       y="698.38379"
-       id="text11641-9"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11643-7"
-         x="75.232414"
-         y="698.38379"
-         style="fill:#2e3436;fill-opacity:1">27/04/2011</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       id="text11631-5"
-       y="780.40479"
-       x="75.330414"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="780.40479"
-         x="75.330414"
-         id="tspan11633-2"
-         sodipodi:role="line">04/02/2014</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       id="text11649-9"
-       y="862.40479"
-       x="75.330414"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="862.40479"
-         x="75.330414"
-         id="tspan11651-9"
-         sodipodi:role="line">27/11/2013</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="75.330414"
-       y="946.38379"
-       id="text11721-8"
-       inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11723-6"
-         x="75.330414"
-         y="946.38379">05/01/2013</tspan></text>
     <g
        inkscape:label="view-list"
        id="g7352"
@@ -2385,320 +2173,437 @@
        id="path21425-1-0-7-4-8-9"
        d="m 355.1497,320.15761 0,33.0182"
        style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect39729"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="414.11081" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="rect39729-1"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="496.11084" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="rect39729-7"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="578.11078" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="rect39729-6"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="660.11078" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="rect39729-3"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="742.11078" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="rect39729-8"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="824.11072" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="rect39729-65"
-       width="42"
-       height="60"
-       x="17.733421"
-       y="908.11072" />
     <g
-       id="g39814"
-       transform="translate(-110.04203,12.341162)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="70.961685"
-         id="rect39812"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="g13017"
+       transform="translate(23.298749,3.9060078)">
       <text
          sodipodi:linespacing="125%"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         id="text11679"
+         y="432.4328"
+         x="75.232414"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebedeb;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          xml:space="preserve"><tspan
-           y="462.48218"
+           y="432.4328"
+           x="75.232414"
+           id="tspan11681"
+           sodipodi:role="line">Lorem Ipsum</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+         id="text11679-6"
+         y="452.4328"
+         x="75.232414"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebedeb;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         xml:space="preserve"><tspan
+           y="452.4328"
+           x="75.232414"
+           id="tspan11681-7"
+           sodipodi:role="line">03/05/2014</tspan></text>
+      <g
+         transform="translate(-110.04203,12.341162)"
+         id="g39814">
+        <rect
+           style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812"
+           width="70.961685"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5"
-           sodipodi:role="line">logement</tspan></text>
+           y="462.48218"
+           id="text11679-2"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5"
+             x="184.63428"
+             y="462.48218">logement</tspan></text>
+      </g>
     </g>
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 11.732418,486.29089 298.006682,0"
+       inkscape:original-d="m -0.23744633,508.07516 309.65815633,0"
        inkscape:path-effect="#path-effect8486-9"
        id="path11741-3"
-       d="m 11.732418,486.29089 298.006682,0"
-       style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       d="m -0.23744633,508.07516 309.65815633,0"
+       style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1.00963438;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <g
-       style="display:inline"
-       id="g39814-4"
-       transform="translate(-110.04203,94.89375)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="70.961685"
-         id="rect39812-5"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="g13089"
+       transform="translate(23.298749,24.585037)">
       <text
          sodipodi:linespacing="125%"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-29"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         id="text11635"
+         y="514.40479"
+         x="75.232414"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="462.48218"
+           y="514.40479"
+           x="75.232414"
+           id="tspan11637"
+           sodipodi:role="line">Détail des charges</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+         id="text11635-2"
+         y="534.40479"
+         x="75.232414"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"><tspan
+           y="534.40479"
+           x="75.232414"
+           id="tspan11637-7"
+           sodipodi:role="line">01/05/2013</tspan></text>
+      <g
+         transform="translate(-110.04203,94.89375)"
+         id="g39814-4"
+         style="display:inline">
+        <rect
+           style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-5"
+           width="70.961685"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5-0"
-           sodipodi:role="line">logement</tspan></text>
+           y="462.48218"
+           id="text11679-2-29"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-0"
+             x="184.63428"
+             y="462.48218">logement</tspan></text>
+      </g>
     </g>
     <g
-       style="display:inline"
-       id="g39814-4-4"
-       transform="translate(-110.04203,175.39251)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="70.961685"
-         id="rect39812-5-2"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="g13079"
+       transform="translate(23.298749,45.331177)">
       <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="75.232414"
+         y="596.41876"
+         id="text11709"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-29-3"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
-           y="462.48218"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11711"
+           x="75.232414"
+           y="596.41876">Détail des charges</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="75.232414"
+         y="616.41876"
+         id="text11709-8"
+         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11711-8"
+           x="75.232414"
+           y="616.41876">23/04/2012</tspan></text>
+      <g
+         transform="translate(-110.04203,175.39251)"
+         id="g39814-4-4"
+         style="display:inline">
+        <rect
+           style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-5-2"
+           width="70.961685"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5-0-5"
-           sodipodi:role="line">logement</tspan></text>
+           y="462.48218"
+           id="text11679-2-29-3"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-0-5"
+             x="184.63428"
+             y="462.48218">logement</tspan></text>
+      </g>
     </g>
     <g
-       style="display:inline"
-       id="g39814-4-4-9"
-       transform="translate(-110.04203,257.77504)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="70.961685"
-         id="rect39812-5-2-2"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="g13055"
+       transform="translate(23.298749,-17.705803)">
       <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="75.330414"
+         y="760.40479"
+         id="text11631"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-29-3-4"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
-           y="462.48218"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11633"
+           x="75.330414"
+           y="760.40479">Vos remboursements</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="75.330414"
+         y="780.40479"
+         id="text11631-5"
+         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11633-2"
+           x="75.330414"
+           y="780.40479">04/02/2014</tspan></text>
+      <g
+         transform="translate(-110.04203,340.61244)"
+         id="g39814-4-4-9-1"
+         style="display:inline">
+        <rect
+           style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-5-2-2-1"
+           width="44.066425"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5-0-5-5"
-           sodipodi:role="line">logement</tspan></text>
+           y="462.48218"
+           id="text11679-2-29-3-4-6"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-0-5-5-1"
+             x="184.63428"
+             y="462.48218">cpam</tspan></text>
+      </g>
+      <g
+         transform="translate(-62.223655,340.61244)"
+         id="g39814-7-7-5-7-0"
+         style="display:inline">
+        <rect
+           style="fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-9-7-3-4-9"
+           width="74.757675"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="184.63428"
+           y="462.48218"
+           id="text11679-2-2-3-6-9-5"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-8-0-4-2-7"
+             x="184.63428"
+             y="462.48218">paiements</tspan></text>
+      </g>
     </g>
     <g
-       style="display:inline"
-       id="g39814-4-4-9-1"
-       transform="translate(-110.04203,340.61244)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="44.066425"
-         id="rect39812-5-2-2-1"
-         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="g13041"
+       transform="translate(23.298749,1.8755035)">
       <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="75.330414"
+         y="842.40479"
+         id="text11649"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-29-3-4-6"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
-           y="462.48218"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11651"
+           x="75.330414"
+           y="842.40479">Vos remboursements</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="75.330414"
+         y="862.40479"
+         id="text11649-9"
+         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11651-9"
+           x="75.330414"
+           y="862.40479">27/11/2013</tspan></text>
+      <g
+         transform="translate(-110.04203,423.44985)"
+         id="g39814-4-4-9-1-4"
+         style="display:inline">
+        <rect
+           style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-5-2-2-1-6"
+           width="44.066425"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5-0-5-5-1"
-           sodipodi:role="line">cpam</tspan></text>
+           y="462.48218"
+           id="text11679-2-29-3-4-6-0"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-0-5-5-1-1"
+             x="184.63428"
+             y="462.48218">cpam</tspan></text>
+      </g>
+      <g
+         transform="translate(-61.975605,423.44985)"
+         id="g39814-7-7-5-7-0-3"
+         style="display:inline">
+        <rect
+           style="fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-9-7-3-4-9-3"
+           width="74.757675"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="184.63428"
+           y="462.48218"
+           id="text11679-2-2-3-6-9-5-4"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-8-0-4-2-7-0"
+             x="184.63428"
+             y="462.48218">paiements</tspan></text>
+      </g>
     </g>
     <g
-       style="display:inline"
-       id="g39814-7-7-5-7-0"
-       transform="translate(-62.223655,340.61244)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="74.757675"
-         id="rect39812-9-7-3-4-9"
-         style="fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="g13027"
+       transform="translate(23.298749,20.198368)">
       <text
          sodipodi:linespacing="125%"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-2-3-6-9-5"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         id="text11721"
+         y="926.38379"
+         x="75.330414"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="462.48218"
-           x="184.63428"
-           id="tspan11681-5-8-0-4-2-7"
-           sodipodi:role="line">paiements</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g39814-4-4-9-1-4"
-       transform="translate(-110.04203,423.44985)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="44.066425"
-         id="rect39812-5-2-2-1-6"
-         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           y="926.38379"
+           x="75.330414"
+           id="tspan11723"
+           sodipodi:role="line">Vos remboursements</tspan></text>
       <text
          sodipodi:linespacing="125%"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-29-3-4-6-0"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         id="text11721-8"
+         y="946.38379"
+         x="75.330414"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="462.48218"
+           y="946.38379"
+           x="75.330414"
+           id="tspan11723-6"
+           sodipodi:role="line">05/01/2013</tspan></text>
+      <g
+         transform="translate(-110.04203,506.82515)"
+         id="g39814-4-4-9-1-5"
+         style="display:inline">
+        <rect
+           style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-5-2-2-1-7"
+           width="44.066425"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5-0-5-5-1-1"
-           sodipodi:role="line">cpam</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g39814-7-7-5-7-0-3"
-       transform="translate(-61.975605,423.44985)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="74.757675"
-         id="rect39812-9-7-3-4-9-3"
-         style="fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-2-3-6-9-5-4"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
            y="462.48218"
+           id="text11679-2-29-3-4-6-5"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-0-5-5-1-2"
+             x="184.63428"
+             y="462.48218">cpam</tspan></text>
+      </g>
+      <g
+         transform="translate(-61.975605,506.82515)"
+         id="g39814-7-7-5-7-0-2"
+         style="display:inline">
+        <rect
+           style="fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect39812-9-7-3-4-9-4"
+           width="74.757675"
+           height="21.597033"
+           x="179.97528"
+           y="448.67368" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            x="184.63428"
-           id="tspan11681-5-8-0-4-2-7-0"
-           sodipodi:role="line">paiements</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g39814-4-4-9-1-5"
-       transform="translate(-110.04203,506.82515)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="44.066425"
-         id="rect39812-5-2-2-1-7"
-         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-29-3-4-6-5"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
            y="462.48218"
-           x="184.63428"
-           id="tspan11681-5-0-5-5-1-2"
-           sodipodi:role="line">cpam</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g39814-7-7-5-7-0-2"
-       transform="translate(-61.975605,506.82515)">
-      <rect
-         y="448.67368"
-         x="179.97528"
-         height="21.597033"
-         width="74.757675"
-         id="rect39812-9-7-3-4-9-4"
-         style="fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679-2-2-3-6-9-5-8"
-         y="462.48218"
-         x="184.63428"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
-           y="462.48218"
-           x="184.63428"
-           id="tspan11681-5-8-0-4-2-7-3"
-           sodipodi:role="line">paiements</tspan></text>
+           id="text11679-2-2-3-6-9-5-8"
+           inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan11681-5-8-0-4-2-7-3"
+             x="184.63428"
+             y="462.48218">paiements</tspan></text>
+      </g>
     </g>
     <rect
        style="color:#000000;fill:url(#linearGradient12100);fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:0.23565695;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter12000-4-9-2);enable-background:accumulate"
@@ -2790,12 +2695,243 @@
          style="fill:#2e3436;fill-opacity:1;stroke:none"
          d="m 253.98034,744.99997 0,9 -9,0 0,-9 -2,0 0,9 c 0,2 2,2 2,2 l 9,0 c 2,0 2,-2 2,-2 l 0,-9 z m -4.00001,1 -1.00002,0 0,6 1.00002,0 z m -2,0 -1.00002,0 0,6 1.00002,0 z m 4,0 -0.99999,0 0,6 0.99999,0 z m 1.00001,-6 c 2,0 2,2 2,2 l 2,0 0,2 -15,0 0,-2 2,0 c 0,-2 2,-2 2,-2 l 7,0 z m 0,1 -7,0 0,1 7,0 0,-1 z" />
     </g>
+    <g
+       transform="matrix(0.09933639,0,0,0.09933639,-18.7563,370.86765)"
+       id="g3714-9-5"
+       style="display:inline">
+      <rect
+         y="407.1575"
+         x="362.29141"
+         height="911.18958"
+         width="644.27545"
+         id="rect3591-1-55"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
+      <text
+         transform="scale(0.93393728,1.0707357)"
+         sodipodi:linespacing="155.99999%"
+         id="text3593-8-2"
+         y="522.72833"
+         x="454.681"
+         style="font-size:12.12920856px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:155.99999428%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+         xml:space="preserve"><tspan
+           style="writing-mode:lr-tb"
+           y="522.72833"
+           x="454.681"
+           id="tspan3595-7-2"
+           sodipodi:role="line">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. </tspan><tspan
+           id="tspan3597-5-21"
+           style="writing-mode:lr-tb"
+           y="541.6499"
+           x="454.681"
+           sodipodi:role="line">Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et </tspan><tspan
+           id="tspan3599-9-9"
+           style="writing-mode:lr-tb"
+           y="560.57147"
+           x="454.681"
+           sodipodi:role="line">diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia </tspan><tspan
+           id="tspan3601-6-63"
+           style="writing-mode:lr-tb"
+           y="579.49304"
+           x="454.681"
+           sodipodi:role="line">consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, </tspan><tspan
+           id="tspan3603-1-5"
+           style="writing-mode:lr-tb"
+           y="598.41461"
+           x="454.681"
+           sodipodi:role="line">consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id </tspan><tspan
+           id="tspan3605-8-2"
+           style="writing-mode:lr-tb"
+           y="617.33618"
+           x="454.681"
+           sodipodi:role="line">dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra </tspan><tspan
+           id="tspan3607-7-1"
+           style="writing-mode:lr-tb"
+           y="636.25769"
+           x="454.681"
+           sodipodi:role="line">tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec </tspan><tspan
+           id="tspan3609-5-36"
+           style="writing-mode:lr-tb"
+           y="655.17926"
+           x="454.681"
+           sodipodi:role="line">viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis </tspan><tspan
+           id="tspan3611-8-18"
+           style="writing-mode:lr-tb"
+           y="674.10083"
+           x="454.681"
+           sodipodi:role="line">parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis </tspan><tspan
+           id="tspan3613-8-3"
+           style="writing-mode:lr-tb"
+           y="693.0224"
+           x="454.681"
+           sodipodi:role="line">semper ac in est.</tspan><tspan
+           style="writing-mode:lr-tb"
+           id="tspan3615-3-2"
+           y="711.94397"
+           x="454.681"
+           sodipodi:role="line" /><tspan
+           style="writing-mode:lr-tb"
+           id="tspan3617-0-1"
+           y="730.86554"
+           x="454.681"
+           sodipodi:role="line">Vivamus fermentum semper porta. Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas </tspan><tspan
+           id="tspan3619-4-1"
+           style="writing-mode:lr-tb"
+           y="749.78711"
+           x="454.681"
+           sodipodi:role="line">convallis ullamcorper ultricies. Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, id </tspan><tspan
+           id="tspan3621-7-04"
+           style="writing-mode:lr-tb"
+           y="768.70868"
+           x="454.681"
+           sodipodi:role="line">fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit </tspan><tspan
+           id="tspan3623-9-4"
+           style="writing-mode:lr-tb"
+           y="787.63025"
+           x="454.681"
+           sodipodi:role="line">urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci </tspan><tspan
+           id="tspan3625-1-8"
+           style="writing-mode:lr-tb"
+           y="806.55182"
+           x="454.681"
+           sodipodi:role="line">congue vestibulum. Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis </tspan><tspan
+           id="tspan3627-4-7"
+           style="writing-mode:lr-tb"
+           y="825.47339"
+           x="454.681"
+           sodipodi:role="line">pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus </tspan><tspan
+           id="tspan3629-8-5"
+           style="writing-mode:lr-tb"
+           y="844.39496"
+           x="454.681"
+           sodipodi:role="line">suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa </tspan><tspan
+           id="tspan3631-9-1"
+           style="writing-mode:lr-tb"
+           y="863.31647"
+           x="454.681"
+           sodipodi:role="line">ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, </tspan><tspan
+           id="tspan3633-1-2"
+           style="writing-mode:lr-tb"
+           y="882.23804"
+           x="454.681"
+           sodipodi:role="line">purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.</tspan><tspan
+           style="writing-mode:lr-tb"
+           id="tspan3635-0-4"
+           y="901.15961"
+           x="454.681"
+           sodipodi:role="line" /><tspan
+           style="writing-mode:lr-tb"
+           id="tspan3637-0-9"
+           y="920.08118"
+           x="454.681"
+           sodipodi:role="line">Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque. Etiam luctus porttitor lorem, </tspan><tspan
+           id="tspan3639-8-79"
+           style="writing-mode:lr-tb"
+           y="939.00275"
+           x="454.681"
+           sodipodi:role="line">sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices </tspan><tspan
+           id="tspan3641-2-7"
+           style="writing-mode:lr-tb"
+           y="957.92432"
+           x="454.681"
+           sodipodi:role="line">imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt. Phasellus eget dolor sit amet ipsum dapibus </tspan><tspan
+           id="tspan3643-2-1"
+           style="writing-mode:lr-tb"
+           y="976.84589"
+           x="454.681"
+           sodipodi:role="line">condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum</tspan><tspan
+           id="tspan3645-1-3"
+           style="writing-mode:lr-tb"
+           y="995.76746"
+           x="454.681"
+           sodipodi:role="line"> at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut </tspan><tspan
+           id="tspan3647-5-9"
+           style="writing-mode:lr-tb"
+           y="1014.689"
+           x="454.681"
+           sodipodi:role="line">placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec </tspan><tspan
+           id="tspan3649-4-2"
+           style="writing-mode:lr-tb"
+           y="1033.6106"
+           x="454.681"
+           sodipodi:role="line">sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. </tspan><tspan
+           id="tspan3667-2-2"
+           style="writing-mode:lr-tb"
+           y="1052.5321"
+           x="454.681"
+           sodipodi:role="line">Phasellus non ullamcorper urna.</tspan></text>
+      <text
+         transform="scale(0.93393728,1.0707357)"
+         sodipodi:linespacing="155.99999%"
+         id="text3669-9-8"
+         y="454.4122"
+         x="453.34677"
+         style="font-size:12.12920856px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:155.99999428%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+         xml:space="preserve"><tspan
+           style="font-size:16.6776619px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           y="454.4122"
+           x="453.34677"
+           id="tspan3671-2-60"
+           sodipodi:role="line">Détail des charges</tspan></text>
+      <text
+         transform="scale(0.93393729,1.0707357)"
+         sodipodi:linespacing="155.99999%"
+         id="text3673-9-0"
+         y="471.22983"
+         x="454.34595"
+         style="font-size:12.88550949px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:155.99999428%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+         xml:space="preserve"><tspan
+           style="font-size:12.88550949px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           y="471.22983"
+           x="454.34595"
+           id="tspan3675-4-9"
+           sodipodi:role="line">03 mai 2014</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3714-9-5"
+       id="use13171"
+       transform="translate(0,102.50731)"
+       width="1024"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3714-9-5"
+       id="use13173"
+       transform="translate(0,204.50982)"
+       width="1024"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use13173"
+       id="use13175"
+       transform="translate(0,102)"
+       width="1024"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use13175"
+       id="use13177"
+       transform="translate(0,102.00001)"
+       width="1024"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use13177"
+       id="use13179"
+       transform="translate(0,102.00002)"
+       width="1024"
+       height="768" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="view - adjusted"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        id="g25295"
@@ -3070,7 +3206,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="view - adjusted - in progress">
+     inkscape:label="view - adjusted - in progress"
+     style="display:none">
     <g
        id="g34352"
        transform="matrix(1,0,0,0.17391304,-270.37343,128.30702)" />
@@ -3126,7 +3263,7 @@
        y="438.36938" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="view - thumbnails"
      id="g3579"
      inkscape:groupmode="layer">
