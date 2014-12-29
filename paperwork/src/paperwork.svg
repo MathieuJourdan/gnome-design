@@ -1705,11 +1705,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1135984"
-     inkscape:cx="309.47842"
-     inkscape:cy="644.77969"
+     inkscape:zoom="1.0671195"
+     inkscape:cx="754.73514"
+     inkscape:cy="538.46561"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g5379"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="734"
@@ -6482,20 +6482,20 @@
          id="path27975"
          style="opacity:0.06938776;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter28128-3-7);enable-background:accumulate"
          xlink:href="#path9296"
-         inkscape:original="M 1217.5938 96.59375 L 1202.3125 114.5 L 1068.8125 114.5 C 1065.4885 114.5 1062.8125 117.58135 1062.8125 121.40625 L 1062.8125 303.1875 C 1062.8125 307.0124 1065.4885 310.09375 1068.8125 310.09375 L 1268.8125 310.09375 C 1272.1365 310.09375 1274.8125 307.0124 1274.8125 303.1875 L 1274.8125 121.40625 C 1274.8125 117.58135 1272.1365 114.5 1268.8125 114.5 L 1233.3125 114.5 L 1217.5938 96.59375 z "
+         inkscape:original="M 1217.5938 96.59375 L 1202.3125 114.5 L 1068.8125 114.5 C 1065.4885 114.5 1062.8125 117.58135 1062.8125 121.40625 L 1062.8125 391.1875 C 1062.8125 395.0124 1065.4885 398.09375 1068.8125 398.09375 L 1268.8125 398.09375 C 1272.1365 398.09375 1274.8125 395.0124 1274.8125 391.1875 L 1274.8125 121.40625 C 1274.8125 117.58135 1272.1365 114.5 1268.8125 114.5 L 1233.3125 114.5 L 1217.5938 96.59375 z "
          inkscape:radius="0"
          sodipodi:type="inkscape:offset" />
       <path
          sodipodi:nodetypes="scccssssssss"
          inkscape:connector-curvature="0"
          id="path9296"
-         d="m 1268.8208,114.4906 -35.5,0 -15.7263,-17.9004 -15.2737,17.9004 -133.5,0 c -3.324,0 -6,3.0792 -6,6.9041 l 0,181.808 c 0,3.8249 2.676,6.9041 6,6.9041 l 200,0 c 3.324,0 6,-3.0792 6,-6.9041 l 0,-181.808 c 0,-3.8249 -2.676,-6.9041 -6,-6.9041 z"
+         d="m 1268.8208,114.4906 -35.5,0 -15.7263,-17.9004 -15.2737,17.9004 -133.5,0 c -3.324,0 -6,3.0792 -6,6.9041 l 0,269.808 c 0,3.8249 2.676,6.9041 6,6.9041 l 200,0 c 3.324,0 6,-3.0792 6,-6.9041 l 0,-269.808 c 0,-3.8249 -2.676,-6.9041 -6,-6.9041 z"
          style="color:#000000;fill:url(#linearGradient5403);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1.07269919;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          xml:space="preserve"
          style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          x="1084.1052"
-         y="140.9187"
+         y="209.79823"
          id="text9370"
          sodipodi:linespacing="125%"
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -6504,18 +6504,18 @@
            sodipodi:role="line"
            id="tspan9372"
            x="1084.1052"
-           y="140.9187">Modify</tspan></text>
+           y="209.79823">Modify</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
          sodipodi:linespacing="125%"
          id="text9374"
-         y="182.59595"
+         y="236.47194"
          x="1084.1052"
          style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="182.59595"
+           y="236.47194"
            x="1084.1052"
            id="tspan9376"
            sodipodi:role="line">Open parent directory</tspan></text>
@@ -6523,7 +6523,7 @@
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path9386"
-         d="m 1258.25,295.6063 5.0711,-5.071 -5.0711,-5.0711 z"
+         d="m 1258.25,351.6063 5.0711,-5.071 -5.0711,-5.0711 z"
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
       <text
          inkscape:export-ydpi="90"
@@ -6531,11 +6531,11 @@
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
          sodipodi:linespacing="125%"
          id="text9492"
-         y="252.19958"
+         y="279.564"
          x="1084.1052"
          style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="252.19958"
+           y="279.564"
            x="1084.1052"
            id="tspan9494"
            sodipodi:role="line">Print</tspan></text>
@@ -6543,7 +6543,7 @@
          xml:space="preserve"
          style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          x="1084.1052"
-         y="211.48254"
+         y="169.48254"
          id="text9496"
          sodipodi:linespacing="125%"
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -6552,42 +6552,84 @@
            sodipodi:role="line"
            id="tspan9498"
            x="1084.1052"
-           y="211.48254">Import file(s)</tspan></text>
+           y="169.48254">Import file(s)</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
          sodipodi:linespacing="125%"
          id="text9374-5"
-         y="293.69556"
+         y="349.69556"
          x="1084.5343"
          style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="293.69556"
+           y="349.69556"
            x="1084.5343"
            id="tspan9376-7"
            sodipodi:role="line">Redo OCR</tspan></text>
       <path
          style="fill:none;stroke:#d3d7cf;stroke-width:0.80316377;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 1072.7029,156 192.2357,0"
+         d="m 1072.7029,186 192.2357,0"
          id="path9630-2"
          inkscape:path-effect="#path-effect39856-9"
-         inkscape:original-d="m 1072.7029,156 192.2357,0"
+         inkscape:original-d="m 1072.7029,186 192.2357,0"
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#d3d7cf;stroke-width:0.80316377;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 1072.7029,227 192.2356,0"
+         d="m 1072.7029,253.99962 192.2356,0"
          id="path9630-2-9"
          inkscape:path-effect="#path-effect39856-9-0"
-         inkscape:original-d="m 1072.7029,227 192.2356,0"
+         inkscape:original-d="m 1072.7029,253.99962 192.2356,0"
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#d3d7cf;stroke-width:0.80316377;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 1072.7029,267.00042 192.2356,0"
+         d="m 1072.7029,321.99962 192.2356,0"
          id="path9630-2-9-2"
          inkscape:path-effect="#path-effect39856-9-0-0"
-         inkscape:original-d="m 1072.7029,267.00042 192.2356,0"
+         inkscape:original-d="m 1072.7029,321.99962 192.2356,0"
          inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="1083.5502"
+         y="142.2269"
+         id="text9496-1"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan9498-6"
+           x="1083.5502"
+           y="142.2269">Scan multiple files</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text9374-5-0"
+         y="377.3924"
+         x="1084.1052"
+         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"><tspan
+           y="377.3924"
+           x="1084.1052"
+           id="tspan9376-7-9"
+           sodipodi:role="line">Reindex all documents</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text9374-5-1"
+         y="304.42892"
+         x="1084.1052"
+         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"><tspan
+           y="304.42892"
+           x="1084.1052"
+           id="tspan9376-7-3"
+           sodipodi:role="line">Export</tspan></text>
     </g>
     <rect
        style="color:#000000;fill:url(#linearGradient5183);fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:0.99999982;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
