@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="paperwork.svg"
-   inkscape:export-filename="/home/thamieu/Projets/gnome-design/paperwork/paperwork-properties-left.png"
+   inkscape:export-filename="/home/thamieu/Projets/gnome-design/paperwork/paperwork-properties.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -2899,10 +2899,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0533897"
-     inkscape:cx="660.63374"
-     inkscape:cy="579.79779"
+     inkscape:cx="227.74551"
+     inkscape:cy="541.82514"
      inkscape:document-units="px"
-     inkscape:current-layer="g19634"
+     inkscape:current-layer="g7643"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="734"
@@ -2919,7 +2919,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3077,7 +3077,7 @@
       <text
          xml:space="preserve"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="98.629166"
+         x="91.860001"
          y="1073.8171"
          id="text11721-8-9"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
@@ -3086,7 +3086,7 @@
          sodipodi:linespacing="125%"><tspan
            id="tspan5652"
            sodipodi:role="line"
-           x="98.629166"
+           x="91.860001"
            y="1073.8171">20/11/2012</tspan></text>
       <g
          style="display:inline"
@@ -3191,33 +3191,19 @@
        style="opacity:0.5;fill:none;stroke:#d3d7cf;stroke-width:1.00963438;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <g
        id="g13089"
-       transform="translate(23.298749,-18.231973)">
-      <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11635"
-         y="531.31079"
-         x="75.232414"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         xml:space="preserve"><tspan
-           y="531.31079"
-           x="75.232414"
-           id="tspan11637"
-           sodipodi:role="line">Détail des charges</tspan></text>
+       transform="translate(23.298749,-28.603014)">
       <text
          sodipodi:linespacing="125%"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
          id="text11635-2"
-         y="513.66278"
-         x="75.232414"
+         y="534.40479"
+         x="68.561249"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
-           y="513.66278"
-           x="75.232414"
+           y="534.40479"
+           x="68.561249"
            id="tspan11637-7"
            sodipodi:role="line">23/04/2014</tspan></text>
       <g
@@ -3255,7 +3241,7 @@
       <text
          xml:space="preserve"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="75.330414"
+         x="69.177254"
          y="780.40479"
          id="text11631-5"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
@@ -3264,7 +3250,7 @@
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan11633-2"
-           x="75.330414"
+           x="69.177254"
            y="780.40479">04/02/2015</tspan></text>
       <g
          transform="translate(-110.04203,340.61244)"
@@ -3329,7 +3315,7 @@
       <text
          xml:space="preserve"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="75.330414"
+         x="68.561249"
          y="862.40479"
          id="text11649-9"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
@@ -3338,7 +3324,7 @@
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan11651-9"
-           x="75.330414"
+           x="68.561249"
            y="862.40479">27/11/2013</tspan></text>
       <g
          transform="translate(-110.04203,423.44985)"
@@ -3407,11 +3393,11 @@
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
          id="text11721-8"
          y="946.38379"
-         x="75.330414"
+         x="69.177254"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          xml:space="preserve"><tspan
            y="946.38379"
-           x="75.330414"
+           x="69.177254"
            id="tspan11723-6"
            sodipodi:role="line">05/01/2013</tspan></text>
       <g
@@ -3483,33 +3469,19 @@
        y="567.26306" />
     <g
        id="g13017"
-       transform="translate(23.298749,165.56548)">
-      <text
-         sodipodi:linespacing="125%"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         id="text11679"
-         y="449.70279"
-         x="75.232414"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebedeb;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
-           y="449.70279"
-           x="75.232414"
-           id="tspan11681"
-           sodipodi:role="line">Lorem Ipsum</tspan></text>
+       transform="translate(23.298749,155.73874)">
       <text
          sodipodi:linespacing="125%"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
          id="text11679-6"
-         y="432.7128"
-         x="75.232414"
+         y="452.4328"
+         x="69.569252"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebedeb;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          xml:space="preserve"><tspan
-           y="432.7128"
-           x="75.232414"
+           y="452.4328"
+           x="69.569252"
            id="tspan11681-7"
            sodipodi:role="line">03/05/2014</tspan></text>
       <g
@@ -3741,34 +3713,20 @@
        height="768" />
     <g
        id="g13079"
-       transform="translate(23.298749,206.5141)">
+       transform="translate(23.298749,196.1431)">
       <text
          xml:space="preserve"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="75.232414"
-         y="613.32477"
-         id="text11709"
-         inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan11711"
-           x="75.232414"
-           y="613.32477">Détail des charges</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="75.232414"
-         y="595.67676"
+         x="69.177254"
+         y="616.41876"
          id="text11709-8"
          inkscape:export-filename="/home/allan/Documents/GnomeDesign/projects/contacts/png/big-landscape.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="75.232414"
-           y="595.67676"
+           x="69.177254"
+           y="616.41876"
            id="tspan5585">01/05/2013</tspan></text>
       <g
          transform="translate(-110.04203,175.39251)"
@@ -4119,45 +4077,31 @@
     <g
        style="display:inline"
        id="g14486"
-       transform="translate(48.830874,89.728775)">
-      <text
-         xml:space="preserve"
-         style="font-size:11.0000639px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="626.1712"
-         y="-24.186047"
-         id="text19518-4"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0000058,0.9999942)"><tspan
-           sodipodi:role="line"
-           id="tspan19520-6"
-           x="626.1712"
-           y="-24.186047">Lorem Ipsum</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         sodipodi:linespacing="125%"
-         id="text13715-9"
-         y="-39.477135"
-         x="625.93188"
-         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         xml:space="preserve"><tspan
-           y="-39.477135"
-           x="625.93188"
-           id="tspan13717-5"
-           sodipodi:role="line">03/05/2014</tspan></text>
-    </g>
+       transform="translate(48.830874,89.728775)" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 403.12084,45.15268 a 1.0000999,1.0000999 0 0 0 -0.8125,1 l 0,12.999999 a 1.0000999,1.0000999 0 0 0 1,1 l 10,0 a 1.0000999,1.0000999 0 0 0 1,-1 l 0,-9.437499 a 1.0000999,1.0000999 0 0 0 -0.2812,-0.71875 l -3.5625,-3.5625 a 1.0000999,1.0000999 0 0 0 -0.7188,-0.28125 l -6.4375,0 a 1.0000999,1.0000999 0 0 0 -0.094,0 1.0000999,1.0000999 0 0 0 -0.094,0 z m 1.1875,2 5,0 0,3 3,0 0,7.999999 -8,0 0,-10.999999 z"
        id="path1234"
        inkscape:connector-curvature="0" />
-    <path
-       style="color:#bebebe;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m 730.145,44.788194 -3.5001,4.07106 -3.4999,-4.07105 z"
-       id="path6679-2-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+    <g
+       id="g4866"
+       transform="translate(0,7.5730143)">
+      <text
+         xml:space="preserve"
+         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         x="625.93188"
+         y="-39.477135"
+         id="text13715-9"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         transform="translate(48.830874,89.728775)"><tspan
+           sodipodi:role="line"
+           id="tspan13717-5"
+           x="625.93188"
+           y="-39.477135">03/05/2014</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8932,7 +8876,7 @@
      inkscape:groupmode="layer"
      id="g7643"
      inkscape:label="menu - properties"
-     style="display:none">
+     style="display:inline">
     <a
        id="a17066"
        transform="translate(-285.72087,-84)">
@@ -9472,6 +9416,12 @@
          rx="0.38461545"
          ry="0.50229359" />
     </g>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path6679-2-1"
+       d="M 730.145,52.20194 726.6449,56.273 723.145,52.20195 z"
+       style="color:#bebebe;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>
   <g
      style="display:none"
@@ -10006,7 +9956,7 @@
        style="color:#000000;fill:#e5e6e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0219673;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="menu - properties - empty"
      id="g19120"
      inkscape:groupmode="layer">
