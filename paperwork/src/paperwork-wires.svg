@@ -1357,11 +1357,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9375"
-     inkscape:cx="346.81273"
-     inkscape:cy="2168.7634"
+     inkscape:zoom="0.984375"
+     inkscape:cx="422.21883"
+     inkscape:cy="2058.3543"
      inkscape:document-units="px"
-     inkscape:current-layer="g11283"
+     inkscape:current-layer="g12998"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="736"
@@ -37286,39 +37286,43 @@
        id="g13819"
        transform="translate(1.0019297,0)">
       <rect
-         ry="3"
-         rx="3"
-         y="3252.4314"
-         x="337.87726"
-         height="32.749653"
-         width="121.96631"
+         ry="2.9830894"
+         rx="3.8977387"
+         y="3252.5237"
+         x="337.96957"
+         height="32.565048"
+         width="158.46425"
          id="rect12135-1"
-         style="display:inline;fill:#d3d7cf;fill-opacity:1;stroke:#a7aba7;stroke-width:1.35114145;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         ry="3"
-         rx="3"
-         y="3252.3062"
-         x="425.92856"
-         height="33"
-         width="35"
-         id="rect12205-1-3"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <path
-         style="display:inline;fill:none;stroke:#a7aba7;stroke-width:1.05079675px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 425.95396,3284.7723 0,-31.9322"
-         id="path12137-0"
-         inkscape:path-effect="#path-effect9443-4-8-1-2-6-7-7"
-         inkscape:original-d="m 425.95396,3284.7723 0,-31.9322"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path12183-4"
-         d="m 447.71214,3266.7707 -3.5001,4.071 -3.4999,-4.071 z"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new" />
+         style="display:inline;fill:#d3d7cf;fill-opacity:1;stroke:#a7aba7;stroke-width:1.53574479;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g12993"
+         transform="translate(35.773137,0)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect12205-1-3"
+           width="35"
+           height="33"
+           x="425.92856"
+           y="3252.3062"
+           rx="3"
+           ry="3"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 425.95396,3284.7723 0,-31.9322"
+           inkscape:path-effect="#path-effect9443-4-8-1-2-6-7-7"
+           id="path12137-0"
+           d="m 425.95396,3284.7723 0,-31.9322"
+           style="display:inline;fill:none;stroke:#a7aba7;stroke-width:1.05079675px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;enable-background:new" />
+        <path
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+           d="m 447.71214,3266.7707 -3.5001,4.071 -3.4999,-4.071 z"
+           id="path12183-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -37326,13 +37330,13 @@
          sodipodi:linespacing="125%"
          id="text12199-8-2"
          y="3273.5259"
-         x="383.33176"
+         x="390.6452"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
          xml:space="preserve"><tspan
            y="3273.5259"
-           x="383.33176"
+           x="390.6452"
            id="tspan12201-4-1"
-           sodipodi:role="line">Add Pages</tspan></text>
+           sodipodi:role="line">Scan (feeder)</tspan></text>
     </g>
     <g
        transform="translate(-24.546129,3272.3471)"
@@ -37478,99 +37482,103 @@
              y="-946.2196" /></flowRegion><flowPara
            id="flowPara6649-5-0-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#2e3436">7 / 7</flowPara></flowRoot>    </g>
-    <path
-       sodipodi:nodetypes="scccssssssss"
-       inkscape:connector-curvature="0"
-       id="path5436-3"
-       d="m 541.61502,3306.8233 -81.50007,0 -15.7263,-17.9004 -15.2737,17.9004 -72.0633,0 c -3.32401,0 -6.00001,3.0792 -6.00001,6.9041 l 0,117.808 c 0,3.8249 2.676,6.9041 6.00001,6.9041 l 184.56337,0 c 3.324,0 6,-3.0792 6,-6.9041 l 0,-117.808 c 0,-3.8249 -2.676,-6.9041 -6,-6.9041 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7938-4);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1.07269919;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
-       x="366.27219"
-       y="3331.25"
-       id="text12199-8-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan12201-4-6"
-         x="366.27219"
+    <g
+       id="g12998"
+       transform="translate(-12.311659,0)">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7938-4);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1.07269919;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m 541.61502,3306.8233 -33.50007,0 -15.7263,-17.9004 -15.2737,17.9004 -120.0633,0 c -3.32401,0 -6.00001,3.0792 -6.00001,6.9041 l 0,117.808 c 0,3.8249 2.676,6.9041 6.00001,6.9041 l 184.56337,0 c 3.324,0 6,-3.0792 6,-6.9041 l 0,-117.808 c 0,-3.8249 -2.676,-6.9041 -6,-6.9041 z"
+         id="path5436-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scccssssssss" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text12199-8-8"
          y="3331.25"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start">Source</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
-       x="366.15778"
-       y="3371.04"
-       id="text12199-8-8-0"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="366.15778"
+         x="366.27219"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
+           y="3331.25"
+           x="366.27219"
+           id="tspan12201-4-6"
+           sodipodi:role="line">Source</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text12199-8-8-0"
          y="3371.04"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
-         id="tspan26388">Flatbed</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
-       x="366.15778"
-       y="3395.2686"
-       id="text12199-8-8-0-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
          x="366.15778"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+         xml:space="preserve"><tspan
+           id="tspan26388"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
+           y="3371.04"
+           x="366.15778"
+           sodipodi:role="line">Flatbed</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text12199-8-8-0-8"
          y="3395.2686"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
-         id="tspan26388-8">Feeder</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
-       x="366.15778"
-       y="3419.4971"
-       id="text12199-8-8-0-89"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
          x="366.15778"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+         xml:space="preserve"><tspan
+           id="tspan26388-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
+           y="3395.2686"
+           x="366.15778"
+           sodipodi:role="line">Feeder</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text12199-8-8-0-89"
          y="3419.4971"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
-         id="tspan26388-7">Digital file</tspan></text>
-    <use
-       height="5450"
-       width="1230"
-       transform="matrix(0.5515139,0,0,1,347.73745,2940.6579)"
-       id="use12323-0-3"
-       xlink:href="#use19837"
-       y="0"
-       x="0"
-       style="display:inline" />
-    <circle
-       style="opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65961254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path13796"
-       cx="520.16315"
-       cy="3367.7153"
-       r="3.6701937" />
-    <circle
-       style="display:inline;opacity:1;fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65961254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path13796-6"
-       cx="520.16315"
-       cy="3391.9438"
-       r="3.6701937" />
-    <circle
-       style="display:inline;opacity:1;fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65961254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path13796-7"
-       cx="520.16315"
-       cy="3416.1724"
-       r="3.6701937" />
+         x="366.15778"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+         xml:space="preserve"><tspan
+           id="tspan26388-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start"
+           y="3419.4971"
+           x="366.15778"
+           sodipodi:role="line">File browser</tspan></text>
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#use19837"
+         id="use12323-0-3"
+         transform="matrix(0.5515139,0,0,1,347.73745,2940.6579)"
+         width="1230"
+         height="5450" />
+      <circle
+         r="3.6701937"
+         cy="3391.9438"
+         cx="520.16315"
+         id="path13796"
+         style="opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65961254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="3.6701937"
+         cy="3367.7153"
+         cx="520.16315"
+         id="path13796-6"
+         style="display:inline;opacity:1;fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65961254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="3.6701937"
+         cy="3416.1724"
+         cx="520.16315"
+         id="path13796-7"
+         style="display:inline;opacity:1;fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65961254;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
     <g
        style="display:inline"
        id="g22534-0-3"
